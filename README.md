@@ -1,6 +1,6 @@
-- 📖 Stony Brook University:B.S. in Computer Science '24
+- 📖 **Stony Brook University**: B.S. in Computer Science '24
 - 🌱 I’m currently learning **PyTorch**
-- 📫 Email: vinair22@gmail.com
+- 📫 **Email**: vinair22@gmail.com
 
 <p align="left">
 </p>
